@@ -1,0 +1,20 @@
+{
+  "name": "Festa",
+  "age": 20,
+  "address" : {
+     "street" : "123 Main St",
+     "city" : "Anytown",
+     "state": "CA",
+     "postal_code": "123456"
+  },
+  "contacts": [
+    {
+      "type": "email",
+      "value": "festa@gmail.com"
+    },
+    {
+      "type": "phone",
+      "value": "123-456-789"
+    }
+  ]
+}
